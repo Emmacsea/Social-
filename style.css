@@ -79,13 +79,9 @@ li{
     border-radius: .3em;
 }
 
-/* li:first-child:hover{
+li:first-child:hover{
     background: rgb(178, 218, 99);
     color: black;
-} */
-
-ul li:hover{
-    background-color: red;
 }
 
 .attribution{
